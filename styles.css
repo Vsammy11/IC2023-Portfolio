@@ -1,4 +1,11 @@
 body{
-    background-color: rgb(255, 225, 126);
+    background-color: rgb(255, 231, 153);
 }
 
+.title{
+    text-align: center;
+}
+
+.shorty{
+    text-align: right;
+}
