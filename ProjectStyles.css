@@ -1,6 +1,14 @@
+.Flex-Img{
+   display: flex;
+}
+
+.Mental{
+    display: left;
+}
+
 .title{
     background-color: rgb(255, 231, 153);
-    height: 225vh;
+    height: 200vh;
     text-align: center;
     font-size: 50px;
 }
